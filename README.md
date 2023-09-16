@@ -5,32 +5,32 @@ This Python application helps you manage and filter your music collection. It of
 1. **Music Management:**
    - Organize your music files by renaming them based on their tags. 
    - Handles various music file formats, including MP3, FLAC, WAV, and many more.
-   - It offers quite variety of file name formats to choose:
+   - It offers quite a variety of file name formats to choose from:
      - Title
      - Title - Artist
      - Artist - Title
      - Title - Album
      - Title - Album Artist
-   - It lets you choose file name separator for separating tags:
+   - It lets you choose a file name separator for separating tags:
      - Hyphen  --  "Name - Name"
      - Small brackets  --  "Name (Name)"
    - It lets you choose the destination folder names in different formats:
      - Artist
      - Album
      - Album Artist
-   - You can keep track of files with the help of feedback box (displays counter and details).
+   - You can keep track of files with the help of a feedback box (displays counter and details).
 
 
 2. **File Filtering:**
    - Quickly filter and separate specific file types (e.g., MP3, M4A, txt, bmp, docs, mp4, etc.) from your collection.
-   - Choose your own file type to filter. You can add custom file types to filter.
+   - Choose your own file type to filter. You can add custom file types to the filter.
    - Helps you keep your collection organized by separating different music file types.
-   - Here too you will get feedback box to make you easier for tracking your files.
+   - Here too, you will get a feedback box to make it easier to track your files.
 
 ## Features
 
 - Easy-to-use GUI for managing music collection.
-- Organize music in variety of formats as you like.
+- Organize music in a variety of formats as you like.
 - Clear feedback messages for each operation.
 - Option to filter specific file formats (not just limited to music files).
 
@@ -54,7 +54,7 @@ This Python application helps you manage and filter your music collection. It of
 4. **Using the File Filtering Feature:**
    - Select the source and destination folders for your music collection.
    - Add any file type extensions that you want to separate.
-   - You can also delete the file type extensions that you have added without need for closing the applicaion.
+   - You can also delete the file type extensions that you have added without the need for closing the application.
    - Click "Filter Music" to separate specific music file formats (e.g., MP3, M4A, txt, bmp, docs, etc.) from your collection.
 
 5. **Clearing Messages:**
@@ -67,12 +67,10 @@ This Python application helps you manage and filter your music collection. It of
 ## Screenshots
 
 - Don't judge by the looks!😉
-<div style="display: flex; justify-content: center; gap: 15px;">
-   <img src="./images/musicManager.png" alt="Music Manager" width="45%">
-   <img src="./images/filterFiles.png" alt="Filter Files" width="45%">
-</div>
-
-
+<p align="center">
+ <img src="./images/musicManager.png" alt="Music Manager" width="45%">
+ <img src="./images/filterFiles.png" alt="Filter Files" width="45%">
+</p>
 
 ## License
 
@@ -84,10 +82,10 @@ This project is licensed under the GNU License - see the [LICENSE](LICENSE) file
 
 ## Usage Instructions / Known Bugs
 
-- There are no known bugs till date.
-- This application has been tested with extreme cases to extend for reliablity check.
-- It has been tested with hundres of music files. (Gives 100% accuracy. No doubt!)
-- Inspite of the best performance, I still recommend you to backup your files before using the application.
+- There are no known bugs to date.
+- This application has been tested with extreme cases to extend for reliability check.
+- It has been tested with hundreds of music files. (Gives 100% accuracy. No doubt!)
+- In spite of the best performance, I still recommend you to back up your files before using the application.
 - You should be responsible for your own files.
 - If you notice any problem, please raise an [issue](https://github.com/shivathapaa/GUI-for-Music-Manager/issues).
 
@@ -97,6 +95,6 @@ This project is licensed under the GNU License - see the [LICENSE](LICENSE) file
 
 <br>
 
-I hope it will be helpful! Enjoy you music!
+I hope it will be helpful! Enjoy your music!
 
 ---
