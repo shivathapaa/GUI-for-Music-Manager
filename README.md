@@ -27,6 +27,10 @@ This Python application helps you manage and filter your music collection. It of
    - Helps you keep your collection organized by separating different music file types.
    - Here too, you will get a feedback box to make it easier to track your files.
 
+
+2. **Filter Duplicates:**
+> *Think Twice before choosing single tag option for this filter operation.*
+- this doesnot check for the extensions so i recommend to first filter file using the program File Filtering.
 ## Features
 
 - Easy-to-use GUI for managing music collection.
