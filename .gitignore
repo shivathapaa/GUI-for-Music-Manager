@@ -6,3 +6,4 @@ virtualenv/
 myenv/
 requirements.txt
 *.py
+app_icons
