@@ -7,3 +7,4 @@ myenv/
 requirements.txt
 *.py
 icons
+!/build/*/icons
