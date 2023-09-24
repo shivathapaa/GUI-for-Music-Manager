@@ -56,10 +56,13 @@ This application consists of three main components:
 ## Features
 
 - Easy-to-use GUI for managing music collection.
+- Your files are PRESERVED!! There'll be no replacing or any duplication when using this app.
 - Organize music in a variety of formats as you like.
 - Filter files for specific file formats (not just limited to music files).
 - Filter duplicate files while comparing metadata (more accurate and reliable result).
 - Feedback box where you can keep track of all the operations being performed by the program. It gives you a proper feedback message where you can easily monitor the changes.
+- Messagebox dialog which for the events like success, information, alerts, and errors. (Everything is informed in both feedback box and messagebox dialog so that you can track each and every steps.)
+- It is compact yet powerful design for music management. It has it all which is needed for basic music management. (Will release full tag editor app later.)
 
 ## Getting Started
 
@@ -96,11 +99,22 @@ This application consists of three main components:
 
 ## Screenshots
 
-- Don't judge by the looks!😉
+- Theme is set based on your system default.
+- Compact yet powerful! 😉
+
 <p align="center">
-  <img src="./images/musicManager.png" alt="Music Manager" width="37%">
-  <img src="./images/filterFiles.png" alt="Filter Files" width="29%">
-  <img src="./images/filterFiles.png" alt="Filter Duplicates" width="29%">
+  <img src="./images/musicManager.png" alt="Music Manager" width="35%">
+  <img src="./images/filterFiles.png" alt="Filter Files" width="31%">
+  <img src="./images/filterFiles.png" alt="Filter Duplicates" width="31%">
+</p>
+
+- A few examples of message-box dialog with different messages.
+
+<p align="center">
+  <img src="./images/info_example_1.png" alt="Info dialog" width="23%">
+  <img src="./images/success_example_1.png" alt="Success dialog" width="23%">
+  <img src="./images/alert_example_1.png" alt="Alert dialog" width="23%">
+  <img src="./images/error_example_1.png" alt="Error dialog" width="23%">
 </p>
 
 ## License
@@ -109,7 +123,7 @@ This project is licensed under the GNU License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to [TinyTag](https://pypi.org/project/tinytag/) and [cx-Freeze](https://pypi.org/project/cx-Freeze/) for their library.
+- Special thanks to [TinyTag](https://pypi.org/project/tinytag/), [CustomTkinter](https://customtkinter.tomschimansky.com/) and [cx-Freeze](https://pypi.org/project/cx-Freeze/) for their library.
 
 ## Usage Instructions/Notes
 
@@ -120,7 +134,8 @@ This project is licensed under the GNU License - see the [LICENSE](LICENSE) file
 
 ## Future Updates
 
-- I am open to suggestions.
+- Will add a completely different window for sole tags editor purposes.
+- You have something in mind to change or add? I am open to suggestions.
 
 <br>
 
