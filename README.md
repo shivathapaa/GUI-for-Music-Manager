@@ -103,9 +103,9 @@ This application consists of three main components:
 - Compact yet powerful! 😉
 
 <p align="center">
-  <img src="./images/musicManager.png" alt="Music Manager" width="35%">
-  <img src="./images/filterFiles.png" alt="Filter Files" width="31%">
-  <img src="./images/filterFiles.png" alt="Filter Duplicates" width="31%">
+  <img src="./images/musicManager.png" alt="Music Manager" width="37%">
+  <img src="./images/filterFiles.png" alt="Filter Files" width="33%">
+  <img src="./images/filterDuplicates.png" alt="Filter Duplicates" width="27%">
 </p>
 
 - A few examples of message-box dialog with different messages.
