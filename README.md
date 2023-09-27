@@ -103,7 +103,7 @@ This application consists of three main components:
 - Compact yet powerful! 😉
 
 <p align="center">
-  <img src="./images/musicManager.png" alt="Music Manager" width="37%">
+  <img src="./images/musicManager.png" alt="Music Manager" width="38%">
   <img src="./images/filterFiles.png" alt="Filter Files" width="33%">
   <img src="./images/filterDuplicates.png" alt="Filter Duplicates" width="27%">
 </p>
@@ -119,7 +119,7 @@ This application consists of three main components:
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
