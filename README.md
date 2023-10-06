@@ -135,7 +135,7 @@ This project is licensed under the GNU License - see the [LICENSE](LICENSE) file
 ## Future Updates
 
 - Will add a completely different window for sole tags editor purposes.
-- You have something in mind to change or add? I am open to suggestions.
+- You have something in mind to change or add? I am open to suggestions ([feature request](https://github.com/shivathapaa/GUI-for-Music-Manager/issues/new/choose)).
 
 <br>
 
