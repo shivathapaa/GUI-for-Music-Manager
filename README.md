@@ -130,7 +130,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This application has been tested with extreme cases to extend, for checking its reliability.
 - It has been tested with thousands of similar and dissimilar music files. (Gives 100% accuracy. No doubt!)
   > In spite of the best performance, I still recommend you to ensure that you have a backup copy of your music files before using the application.<br>You should be responsible for your own files.
-- If you notice any problem, please raise an [issue](https://github.com/shivathapaa/GUI-for-Music-Manager/issues).
+- If you notice any problem, please raise an [issue](https://github.com/shivathapaa/GUI-for-Music-Manager/issues/new/choose).
 
 ## Future Updates
 
