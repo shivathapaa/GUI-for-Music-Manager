@@ -1,5 +1,9 @@
 # GUI for Music Manager
 
+<p align="center">
+  <img src=".github/readme/images/banner_musicManager.png" alt="Music Manager Info Banner" width="100%">
+</p>
+
 ## Overview
 
 The Music Collection Manager is a Python-based desktop application that allows you to manage and organize your music collection. It provides a user-friendly interface for renaming music files, filtering files based on extensions, finding duplicates, and moving them to a different folder.
@@ -103,18 +107,18 @@ This application consists of three main components:
 - Compact yet powerful! 😉
 
 <p align="center">
-  <img src="./images/musicManager.png" alt="Music Manager" width="38%">
-  <img src="./images/filterFiles.png" alt="Filter Files" width="33%">
-  <img src="./images/filterDuplicates.png" alt="Filter Duplicates" width="27%">
+  <img src=".github/readme/images/musicManager.png" alt="Music Manager" width="38%">
+  <img src=".github/readme/images/filterFiles.png" alt="Filter Files" width="33%">
+  <img src=".github/readme/images/filterDuplicates.png" alt="Filter Duplicates" width="27%">
 </p>
 
 - A few examples of message-box dialog with different messages.
 
 <p align="center">
-  <img src="./images/info_example_1.png" alt="Info dialog" width="23%">
-  <img src="./images/success_example_1.png" alt="Success dialog" width="23%">
-  <img src="./images/alert_example_1.png" alt="Alert dialog" width="23%">
-  <img src="./images/error_example_1.png" alt="Error dialog" width="23%">
+  <img src=".github/readme/images/info_example_1.png" alt="Info dialog" width="23%">
+  <img src=".github/readme/images/success_example_1.png" alt="Success dialog" width="23%">
+  <img src=".github/readme/images/alert_example_1.png" alt="Alert dialog" width="23%">
+  <img src=".github/readme/images/error_example_1.png" alt="Error dialog" width="23%">
 </p>
 
 ## License
