@@ -50,7 +50,7 @@ This application consists of three main components:
 
   > **Note:** *Think Twice before choosing a single tag option for this filter operation.*
 
-  This does not check for the file extensions while comparing, so I recommend first to filter files using the program ***File Filtering*** (inside the main GUI) option if necessary.
+  This does not check for the file extensions while comparing, so I recommend first to filter files using the program ***File Filtering*** option (inside the main GUI) if necessary.
 
 
 ## Features
@@ -61,8 +61,8 @@ This application consists of three main components:
 - Filter files for specific file formats (not just limited to music files).
 - Filter duplicate files while comparing metadata (more accurate and reliable result).
 - Feedback box where you can keep track of all the operations being performed by the program. It gives you a proper feedback message where you can easily monitor the changes.
-- Messagebox dialog which for the events like success, information, alerts, and errors. (Everything is informed in both feedback box and messagebox dialog so that you can track each and every steps.)
-- It is compact yet powerful design for music management. It has it all which is needed for basic music management. (Will release full tag editor app later.)
+- Messagebox dialog for events like success, information, alerts, and errors. (Everything is informed in both the feedback box and messagebox dialog so that you can track each and every step.)
+- It is a compact yet powerful design for music management. It has it all which is needed for basic music management. (Will release the full tag editor app later.)
 
 ## Getting Started
 
@@ -86,7 +86,7 @@ This application consists of three main components:
    - Select the source and destination folders for your music collection.
    - Add any file type extensions that you want to separate.
    - You can also delete the file type extensions that you have added without the need for closing the application.
-   - Click "Filter Music" to separate specific music file formats (e.g., MP3, M4A, txt, bmp, docs, etc.) from your collection.
+   - Click "Filter Files" to separate specific music file formats (e.g., MP3, M4A, txt, jpg, gif, bmp, docs, etc.) from your collection.
 
 5. **Using the Filtering Duplicates Feature:**
    - Select the source and destination folders for your music collection.
@@ -119,7 +119,7 @@ This application consists of three main components:
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC BY-NC 4.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -130,12 +130,12 @@ This project is licensed under the GNU License - see the [LICENSE](LICENSE) file
 - This application has been tested with extreme cases to extend, for checking its reliability.
 - It has been tested with thousands of similar and dissimilar music files. (Gives 100% accuracy. No doubt!)
   > In spite of the best performance, I still recommend you to ensure that you have a backup copy of your music files before using the application.<br>You should be responsible for your own files.
-- If you notice any problem, please raise an [issue](https://github.com/shivathapaa/GUI-for-Music-Manager/issues).
+- If you notice any problem, please raise an [issue](https://github.com/shivathapaa/GUI-for-Music-Manager/issues/new/choose).
 
 ## Future Updates
 
 - Will add a completely different window for sole tags editor purposes.
-- You have something in mind to change or add? I am open to suggestions.
+- You have something in mind to change or add? I am open to suggestions ([feature request](https://github.com/shivathapaa/GUI-for-Music-Manager/issues/new/choose)).
 
 <br>
 
