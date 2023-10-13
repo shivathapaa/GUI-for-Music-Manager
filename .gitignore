@@ -8,3 +8,5 @@ requirements.txt
 *.py
 icons
 !/build/*/icons
+
+__pycache__/
